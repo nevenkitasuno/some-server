@@ -1,3 +1,2 @@
 # some-server
-errors:
-- (https://stackoverflow.com/questions/54093337/crtls-valid-heap-pointerblock-in-my-header-class)
+Сервер, по команде посылающий клиенту ip-адреса всех подключавшихся до него клиентов.
